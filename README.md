@@ -30,14 +30,3 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application Send SMS using Intent.
-Developed by:
-Registeration Number :
-*/
-```
-
-## OUTPUT
-
-
-
-## RESULT
-Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
